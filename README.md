@@ -1,12 +1,8 @@
-
-# Hình ảnh cafe
- <img width="684" alt="Screen Shot 2024-08-13 at 01 12 22" src="https://github.com/user-attachments/assets/92316756-1921-4507-83f9-288c69074468">
-# Hình ảnh cafe
-<img width="684" alt="Screen Shot 2024-08-13 at 01 12 22" src="https://github.com/user-attachments/assets/92316756-1921-4507-83f9-288c69074468">
-<img width="581" alt="Screen Shot 2024-04-20 at 00 08 27" src="https://github.com/user-attachments/assets/3074e2c3-1a21-4a09-92fe-b14139550391">
-<img width="1920" alt="Admin detete product" src="https://github.com/user-attachments/assets/f4d13e52-aa34-4686-832d-244ea20a87db">
-![Admin manage product](https://github.com/user-attachments/assets/6febf54b-5b77-4bf0-884c-3e71b722006c)
-![Admin update product](https://github.com/user-attachments/assets/14fbfb92-6093-4cb1-8c96-0ad3f45ba9d6)
-![Admin view](https://github.com/user-attachments/assets/aa0210c0-5f23-4b36-b0e0-cf9d53bca8bb)
-![checkout](https://github.com/user-attachments/assets/bb4fbaf9-e901-4488-a48c-61b5bc6b5e7c)
-![Chi tiet san pham](https://github.com/user-attachments/assets/ba34f305-f9f1-4c65-bccc-e3be39571286)
+<img width="531" alt="Screen Shot 2024-09-17 at 22 37 18" src="https://github.com/user-attachments/assets/3079f2de-8c37-40f0-b54a-b36099eaedb5">
+<img width="934" alt="Screen Shot 2024-09-17 at 22 37 38" src="https://github.com/user-attachments/assets/20ec845d-889a-4251-a1a3-fdc2d1aeeef5">
+<img width="1136" alt="Screen Shot 2024-09-17 at 22 38 22" src="https://github.com/user-attachments/assets/2e927ce1-bfe9-4791-b3af-c6da6d5b605c">
+<img width="1138" alt="Screen Shot 2024-09-17 at 22 38 42" src="https://github.com/user-attachments/assets/ef64ce48-7bfe-45e1-a22b-7ffee4bd64e8">
+<img width="1135" alt="Screen Shot 2024-09-17 at 22 39 03" src="https://github.com/user-attachments/assets/5cee3d4f-f792-4231-a46d-ffbd5a63c11d">
+<img width="1228" alt="Screen Shot 2024-09-17 at 22 39 22" src="https://github.com/user-attachments/assets/d98f93db-6c11-4bc2-a826-2bb85c2fbb9b">
+<img width="1226" alt="Screen Shot 2024-09-17 at 22 40 00" src="https://github.com/user-attachments/assets/e63ec50b-847e-43c0-9707-8732beaf176f">
+<img width="1139" alt="Screen Shot 2024-09-17 at 22 40 22" src="https://github.com/user-attachments/assets/728ba313-212d-4773-aa2b-bb848191e734">
